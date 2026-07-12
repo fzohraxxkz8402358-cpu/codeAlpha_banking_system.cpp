@@ -62,6 +62,7 @@ banking-system-cpp/
 
 ## 📷 Output
 
+<img width="516" height="352" alt="image" src="https://github.com/user-attachments/assets/6d54237e-fea3-45fa-9269-c9854ca932aa" />
 
 
 ---
